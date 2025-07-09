@@ -1,0 +1,7 @@
+C:\JobHongsa\JobHongsa\JobHongsa\bin\Debug\JobHongsa.exe.config
+C:\JobHongsa\JobHongsa\JobHongsa\bin\Debug\JobHongsa.exe
+C:\JobHongsa\JobHongsa\JobHongsa\bin\Debug\JobHongsa.pdb
+C:\JobHongsa\JobHongsa\JobHongsa\obj\Debug\JobHongsa.csproj.AssemblyReference.cache
+C:\JobHongsa\JobHongsa\JobHongsa\obj\Debug\JobHongsa.csproj.CoreCompileInputs.cache
+C:\JobHongsa\JobHongsa\JobHongsa\obj\Debug\JobHongsa.exe
+C:\JobHongsa\JobHongsa\JobHongsa\obj\Debug\JobHongsa.pdb
